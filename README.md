@@ -15,9 +15,7 @@ edit_dword <module_name> <offset> <new_value>
 edit_qword <module_name> <offset> <new_value>
 ```
 
-Here's an example of how to use the `edit_hex` function to modify the `libUE4.so` module in memory:
 
-```
 
 ## Features
 
