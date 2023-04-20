@@ -1,5 +1,5 @@
 # MemoryPaws
-MemoryPaws - Runtime Memory Patching for Linux
+MemoryPaws - Runtime Memory Patching for Linux | Android
 
 MemoryPaws is a shell script tool for patching the memory of a running process on Linux at runtime. With MemoryPaws, you can perform hex editing, dword editing, and qword editing to modify the memory of a target process, making it an excellent tool for debugging and reverse engineering.
 
